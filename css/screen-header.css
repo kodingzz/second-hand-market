@@ -1,0 +1,20 @@
+.screen-header_bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+.screen-header-bar_column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*height: 100vh;  */
+}
+
+.screen-header-bar_column :nth-child(2) {
+  margin: 0px 30px;
+}
+
+.screen-header-bar_column:last-child {
+  margin-left: 50px;
+}
