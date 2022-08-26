@@ -1,1 +1,10 @@
-@import "screen-header.css";
+@import "components/screen-header-bar.css";
+@import "components/goods.css";
+@import "reset.css";
+@import "index.css";
+@import "sell.css";
+@import "variable.css";
+@import "goods-sell.css";
+body {
+  height: 1000vh;
+}

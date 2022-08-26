@@ -1,0 +1,18 @@
+.goods {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 150px;
+  padding: 40px;
+  border-bottom: var(--main--border);
+}
+
+.goods_registration {
+  margin-left: 150px;
+}
+
+.goods .divider {
+  font-size: 16px;
+  margin: 0 30px;
+  color: whitesmoke;
+}

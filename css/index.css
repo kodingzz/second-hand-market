@@ -1,0 +1,19 @@
+.today-popular-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 50px;
+  margin-top: 100px;
+}
+
+.today-popular-item_title {
+  font-size: 30px;
+  padding-bottom: 30px;
+}
+
+.today-popular-item_list {
+  width: 80%;
+  height: 500vh;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
