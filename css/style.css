@@ -5,6 +5,8 @@
 @import "sell.css";
 @import "variable.css";
 @import "goods-sell.css";
+@import "login.css";
+
 body {
-  height: 1000vh;
+  height: 500vh;
 }
